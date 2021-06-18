@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="DloI3R" name="Juice Audio EQ" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              jucerFormatVersion="1" cppLanguageStandard="17" includeBinaryInJuceHeader="0">
   <MAINGROUP id="u8vVTX" name="Juice Audio EQ">
     <GROUP id="{4A84C027-E3C6-C27D-0367-F50E4BD02CD9}" name="Source">
       <FILE id="pcJPeJ" name="PluginProcessor.cpp" compile="1" resource="0"
